@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Courier New', monospace;
   background: #111;
   color: #eee;
   margin: 0;
@@ -7,31 +7,66 @@ body {
 }
 
 header {
-  background: #222;
-  padding: 10px 20px;
+  background: linear-gradient(90deg, #0ff, #00f);
+  padding: 15px 20px;
+  box-shadow: 0 0 15px #0ff;
+  text-align: center;
+}
+
+header h1 {
+  color: #0ff;
+  font-size: 2.5em;
+  letter-spacing: 2px;
+  text-shadow: 0 0 10px #0ff, 0 0 20px #00f;
+  margin: 0;
+}
+
+nav {
+  margin-top: 10px;
 }
 
 nav a {
   color: #0ff;
-  margin-right: 15px;
+  margin: 0 15px;
   text-decoration: none;
+  font-weight: bold;
+  text-shadow: 0 0 5px #0ff;
+  transition: 0.3s;
 }
 
 nav a:hover {
-  text-decoration: underline;
+  color: #00f;
+  text-shadow: 0 0 10px #0ff, 0 0 15px #00f;
 }
 
 main {
   padding: 20px;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
+main h2 {
+  color: #0ff;
+  text-shadow: 0 0 5px #0ff, 0 0 10px #00f;
+}
+
+main p {
+  line-height: 1.6;
+}
+
+.step, .faq-item {
+  background: #111;
+  border-left: 5px solid #0ff;
+  padding: 15px 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px #0ff;
+  transition: 0.3s;
   margin-top: 20px;
 }
 
-/* responsive */
+.step:hover, .faq-item:hover {
+  border-left-color: #00f;
+  box-shadow: 0 0 15px #00f;
+}
+
 @media (max-width: 600px) {
   nav a {
     display: block;
