@@ -1,5 +1,6 @@
 # horizon
-![Static Badge]([https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/is_cool-yes-blue)
+
+![Static Badge](https://img.shields.io/badge/is_cool-yes-blue)
 
 [![My Skills](https://skillicons.dev/icons?i=arch)](https://skillicons.dev)
 
