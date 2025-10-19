@@ -1,5 +1,8 @@
 # horizon
 
+![license](https://img.shields.io/badge/license-GPL_3.0-blueviolet)
+
+
 ![Static Badge](https://img.shields.io/badge/is_cool-yes-blue)
 
 [![My Skills](https://skillicons.dev/icons?i=arch)](https://skillicons.dev)
