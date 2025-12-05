@@ -8,7 +8,7 @@
 ![open_source](https://img.shields.io/badge/open%20source-yes-ff69b4)
 
 ---
-** NOTE:HORIZON IS STILL NOT DONE CUZ IM TOO LAZY LOL **
+**NOTE:HORIZON IS STILL NOT DONE CUZ IM TOO LAZY LOL**
 ## Introduction
 
 **horizon** is a minimal arch-based OS designed to run on desktops, laptops, and phones.  
