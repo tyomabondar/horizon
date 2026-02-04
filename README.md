@@ -23,7 +23,7 @@ check out the pages here:
 
 ## Features
 
-- Neon/futuristic UI  
+- Neon/futuristic UI (website lol) 
 - Preinstalled apps: Firefox, Terminal, File Manager  
 - Responsive design for all devices  
 - Fully open-source and free  
